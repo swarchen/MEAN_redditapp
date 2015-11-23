@@ -1,0 +1,9 @@
+.container{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.posts > div{
+	font-size: 20px;
+}
